@@ -1,1 +1,1 @@
-print ("hello world")
+print ("hello world sab thik thak hai na")
